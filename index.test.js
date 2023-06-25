@@ -1,0 +1,1 @@
+const fonctions = require("./index");
